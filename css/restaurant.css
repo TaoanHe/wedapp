@@ -177,7 +177,7 @@ a.btn{
 }
 .carousel-control .glyphicon-chevron-left,.carousel-control .icon-prev,.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next{
 	position: absolute;
-	top: 45%;
+	top: 30%;
 	z-index: 5;
 	display: inline-block;
 }
